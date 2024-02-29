@@ -1,0 +1,11 @@
+{
+    "name":"discador/twilio" ,
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {
+        "twilio/sdk": "^7.16"
+    }
+}
